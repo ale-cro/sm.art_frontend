@@ -14,6 +14,10 @@ Change pasword : Modificare la password di un Utente registrato, per eseguire mo
 
 Gestione Utenti : Carica tabella dove vengono visualizzati tutti gli utenti registrati con i dati associati.
 
+## Eseguire Applicativo
+Selezionare come dispositivo chrome o edge.
+Scegliere main.dart 
+Cliccare freccia verde
 
 ## Getting Started
 
