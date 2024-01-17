@@ -1,8 +1,8 @@
-# datatable_con_adaptive
+# sm.art FrontEnd
 
 Frontend applicativo.
 
-Homepage : Contiene due layout, un per desktop e uno per Mobile, riducendo la larghezza dello schermo 
+Homepage : Contiene due layout, un per desktop e uno per Mobile. a seconda della larghezza dello schermo viene visualizzato il layout.
 
 DashBoard : Esegue fecth degli Operai impaginati (come valore di default vengono caricati 20 operai alla volta), eseguendo lo scroll verso il basso viene eseguito lazy loading di altri operai. Eseguendo click su un elemento della lista degli Operai vengono caricate anche le timbrature associate ad ogni operaio. In modalità Desktop vengono visualizzate sia la lista degli operai che la lista delle timbrature sulla stessa finesta. In modalità mobile, quando viene eseguito click viene fatta vedere la schermata dedicata alle timbrature. Quando si esegue onLongPress su un record Intero della lista viene fatta vedere una schermata Cupertino (iOS).
 
