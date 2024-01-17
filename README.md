@@ -19,6 +19,10 @@ Selezionare come dispositivo chrome o edge.
 Scegliere main.dart 
 Cliccare freccia verde
 
+su Intellij cliccare New -> Project from version control ed inserire il link del repo.
+Una volta clonato il progetto eseguire pub get per aggiungere tutte le depencies richieste.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
